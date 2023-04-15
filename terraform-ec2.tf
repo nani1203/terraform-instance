@@ -1,4 +1,4 @@
-provider "registry.terraform.io/hashicorp/aws" {
+provider "aws" {
   profile    = "terraform_user"
   access_key = "AKIA4BHZHQQA3TQAXW5F"
   secret_key = "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"
